@@ -306,7 +306,7 @@ int main(){
     //test7(0);
     //test8(0);
     //test_progress_bar(0);
-    printf("hellow bad world");
+    printf("hellow world");
     {
       try{
       }
